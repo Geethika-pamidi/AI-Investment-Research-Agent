@@ -1,0 +1,6 @@
+{
+  "name": "AI Investment Research Agent",
+  "description": "An intelligent multi-agent investment research platform that leverages Google Search Grounding to analyze companies, evaluate financials, sentiment, and SWOT, and synthesize investment decisions with clear reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
